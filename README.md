@@ -1,0 +1,2 @@
+# MoneyDoc
+Private Accounting stuff
